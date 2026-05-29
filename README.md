@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 🤝 I’m looking for help with **understanding advance pyhton concepts**
+- 🤝 I’m looking for help with **understanding advance python concepts**
 
 - 📫 How to reach me **gdsufiyanone@gmail.com**
 
